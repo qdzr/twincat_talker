@@ -1,3 +1,8 @@
+上位机通过ADS通信改变TwinCAT PLC变量
+
+作为后续RedwallBot机械臂的控制基础
+
+
 # ROS interface for Beckhoff TwinCAT PLC :robot: :rotating_light:
 
 ## :warning: STILL UNDER DEVELOPMENT :warning:
