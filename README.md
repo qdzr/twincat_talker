@@ -2,6 +2,9 @@
 
 作为后续RedwallBot机械臂的控制基础
 
+from:
+https://github.com/Beckhoff/ADS/tree/v10
+
 
 # ROS interface for Beckhoff TwinCAT PLC :robot: :rotating_light:
 
@@ -18,7 +21,7 @@ For further information:
 ## Installation
 
 Clone the project into your `catkin_ws/src` \
-`git clone https://github.com/hslu-c2a/twincat_talker.git` \
+`git clone https://github.com/qdzr/twincat_talker.git` \
 Build the project \
 `catkin_make` \
 Start a roscore and in a separate shell \
